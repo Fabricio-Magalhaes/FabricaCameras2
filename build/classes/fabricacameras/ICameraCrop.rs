@@ -1,0 +1,2 @@
+fabricacameras.ICameraCrop
+fabricacameras.ICameraFullFrame
